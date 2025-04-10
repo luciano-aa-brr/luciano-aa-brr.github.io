@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+   
+    background-color: blueviolet;
+    text-align: center;
+    padding: 30px;
+}
+ .navegacion{
+    background-color: blue;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+ }
+ .navegacion li{
+    display: inline;
+
+ }
+ .navegacion :hover{
+    background-color: aqua;
+ }
+
+ main p{
+    background-color: chartreuse;
+   padding: 10%;
+ }
+ 
+ footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: burlywood;
+    width: 100%;
+ }
+
+ 
