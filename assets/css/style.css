@@ -29,6 +29,7 @@ header{
    margin-bottom: 20px;
 }
 
+
 img{
    max-width: 100px;
 }
@@ -45,3 +46,22 @@ main{
    border-style: double;
    padding: 10px; 
  }
+
+ .redes{
+   display: block;
+   list-style: none;
+   overflow: hidden
+ }
+   .redes li{
+      float: left;
+      align-items: center;
+      margin-right: 40px;
+   }
+
+   .redes li:hover{
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 10px;
+      transition: 0.3s;
+     
+      
+   }
