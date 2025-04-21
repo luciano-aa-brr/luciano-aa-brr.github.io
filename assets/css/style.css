@@ -6,6 +6,9 @@
 body{
    background: #7d4909;
    background: linear-gradient(90deg, rgba(125, 73, 9, 1) 0%, rgba(199, 167, 87, 1) 50%, rgba(237, 219, 59, 1) 100%);
+   margin-top: 20px;
+   margin-left: 10%;
+   margin-right: 10%;
 }
 header{
    text-align: center;
