@@ -63,20 +63,25 @@ figcaption {
    align-items: center; 
    list-style: none; 
    padding: 0;
-   margin: 0;
+   margin-bottom: 20px;
 }
 .redes li {
    margin: 0 20px;
 }
 .redes img {
-   width: 50px; 
+   width: 30px; 
    transition: transform 0.3s; 
 }
 .redes img:hover {
    transform: scale(1.2);
    border-radius: 10px; 
    background-color: rgba(255, 255, 255, 0.2);
-   transition-delay: 0s;
+
+}
+#contador-visitas{
+ text-align: center;
+ text-decoration: underline; 
+ text-underline-offset: 5px;
 }
 .copi{
    text-align: center;
