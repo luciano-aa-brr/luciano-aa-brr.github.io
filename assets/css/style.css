@@ -73,9 +73,10 @@ figcaption {
    transition: transform 0.3s; 
 }
 .redes img:hover {
-   transform: scale(1.2); 
+   transform: scale(1.2);
    border-radius: 10px; 
    background-color: rgba(255, 255, 255, 0.2);
+   transition-delay: 0s;
 }
 .copi{
    text-align: center;
