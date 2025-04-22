@@ -4,8 +4,7 @@
     margin: 0;
 }
 body{
-   background: #7d4909;
-   background: linear-gradient(90deg, rgba(125, 73, 9, 1) 0%, rgba(199, 167, 87, 1) 50%, rgba(237, 219, 59, 1) 100%);
+   background: #d2cdd2;
    margin-top: 20px;
    margin-left: 10%;
    margin-right: 10%;
@@ -40,7 +39,7 @@ header{
    border-style: double;
    text-align: center;
    padding: 15px;
-   margin-bottom: 20px;  
+   margin-bottom: 20px; 
 }
 figure {  
    display: inline-block;
